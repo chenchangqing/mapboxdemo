@@ -40,5 +40,10 @@
 	<string>pk.eyJ1IjoiY2hlbmNoYW5ncWluZyIsImEiOiJjaWdjMDhlN3cyMWZidTBtOWZ3ZDJ2Y2M1In0.kMC8iZZ1_nPhJFjfD9eCWQ</string>
 	<key>MGLMapboxMetricsEnabledSettingShownInApp</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
